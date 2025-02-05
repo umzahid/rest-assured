@@ -103,10 +103,3 @@ Add the following dependencies to your `pom.xml`:
     </dependency>
 </dependencies>
 ```
-
-## License
-
-This project is licensed under the MIT License.
-```
-
-This `README.md` file provides an overview of the project, setup instructions, how to run tests, and where to find the reports. Adjust the content as needed for your specific project details.
