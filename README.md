@@ -14,8 +14,8 @@ This project demonstrates the use of Rest-Assured for API testing and Selenium f
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/umzahid/rest-assured-selenium.git
-    cd rest-assured-selenium
+    git clone https://github.com/umzahid/rest-assured.git
+    cd rest-assured
     ```
 
 2. Install dependencies:
